@@ -3,3 +3,6 @@ console.log(button);
 
 const login = "login page Added";
 console.log(login);
+
+const footer = "footer added in the website";
+console.log(footer);
