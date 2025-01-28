@@ -4,6 +4,7 @@ console.log(button);
 const login = "login page Added";
 console.log(login);
 
-const footer = "footer added in the website";
-console.log(footer);
-const payment = "integrated the payment gateway"
+const payment = "integrated the payment gateway";
+
+const upi ="integrated the upi";
+console.log(upi);
